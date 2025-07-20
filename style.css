@@ -117,9 +117,10 @@ a {
     align-self: stretch;
     width: 100%;
   }
-  .contact-right{
+  .contact-right , contact-left{
     display: none;
   }
+  
 }
 
 /* === HERO SECTION === */
